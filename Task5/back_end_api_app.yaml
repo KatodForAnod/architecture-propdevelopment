@@ -1,0 +1,18 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: back-end-api-app
+spec:
+  selector:
+    matchLabels:
+      app: back-end-api
+  template:
+    metadata:
+      labels:
+        app: back-end-api
+    spec:
+      containers:
+        - name: nginx
+          image: nginx:latest
+          ports:
+            - containerPort: 80

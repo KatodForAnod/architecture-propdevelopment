@@ -1,0 +1,149 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" version="28.0.7">
+  <diagram name="Страница — 1" id="FMqHsHUHu3MELCHbgLZe">
+    <mxGraphModel dx="2080" dy="2062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyHtbYfiBEdQWDcqf0qO-2" target="zyHtbYfiBEdQWDcqf0qO-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-2" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;4&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;caret-color: rgb(53, 53, 53); white-space-collapse: preserve; background-color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;Публичные данные&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyHtbYfiBEdQWDcqf0qO-3" target="zyHtbYfiBEdQWDcqf0qO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyHtbYfiBEdQWDcqf0qO-3" target="zyHtbYfiBEdQWDcqf0qO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyHtbYfiBEdQWDcqf0qO-3" target="zyHtbYfiBEdQWDcqf0qO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyHtbYfiBEdQWDcqf0qO-3" target="zyHtbYfiBEdQWDcqf0qO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-3" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;white-space: pre-wrap; caret-color: rgb(214, 214, 214); font-family: &amp;quot;YS Text&amp;quot;, sans-serif; font-size: 18px; background-color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;Безопасность данных&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyHtbYfiBEdQWDcqf0qO-5" target="zyHtbYfiBEdQWDcqf0qO-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-5" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;4&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;caret-color: rgb(53, 53, 53); white-space-collapse: preserve; background-color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;Внутренние данные&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyHtbYfiBEdQWDcqf0qO-6" target="zyHtbYfiBEdQWDcqf0qO-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-6" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;4&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;caret-color: rgb(53, 53, 53); white-space-collapse: preserve; background-color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;Конфинденциальные данные&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyHtbYfiBEdQWDcqf0qO-7" target="zyHtbYfiBEdQWDcqf0qO-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-7" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;4&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;caret-color: rgb(53, 53, 53); white-space-collapse: preserve; background-color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;Секретные данные&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyHtbYfiBEdQWDcqf0qO-12" target="zyHtbYfiBEdQWDcqf0qO-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-12" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;4&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;caret-color: rgb(192, 192, 192); white-space-collapse: preserve; background-color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;Данные о недвижимости&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyHtbYfiBEdQWDcqf0qO-13" target="zyHtbYfiBEdQWDcqf0qO-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyHtbYfiBEdQWDcqf0qO-13" target="zyHtbYfiBEdQWDcqf0qO-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-13" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;4&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;caret-color: rgb(192, 192, 192); white-space-collapse: preserve; background-color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;Искажение данных&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-15" value="&lt;div style=&quot;text-align: start; background-color: rgb(43, 43, 43); color: rgb(169, 183, 198);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Эти данные доступны для публичного просмотра на сайте,&lt;span style=&quot;white-space: normal;&quot;&gt;но внутренняя система управления ими требует&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;защиты от несанкционированных изменений.&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="-50" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-16" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Оценка риска: незначительный&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyHtbYfiBEdQWDcqf0qO-21" target="zyHtbYfiBEdQWDcqf0qO-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-21" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;4&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;caret-color: rgb(192, 192, 192); white-space-collapse: preserve; background-color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;Массивы данных для ML&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyHtbYfiBEdQWDcqf0qO-22" target="zyHtbYfiBEdQWDcqf0qO-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyHtbYfiBEdQWDcqf0qO-22" target="zyHtbYfiBEdQWDcqf0qO-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyHtbYfiBEdQWDcqf0qO-22" target="zyHtbYfiBEdQWDcqf0qO-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-22" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;4&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;caret-color: rgb(192, 192, 192); white-space-collapse: preserve; background-color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;Массивы данных для ML&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zyHtbYfiBEdQWDcqf0qO-23" target="zyHtbYfiBEdQWDcqf0qO-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-23" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;4&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;caret-color: rgb(72, 72, 72); white-space-collapse: preserve; background-color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Потеря данных&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-295" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zyHtbYfiBEdQWDcqf0qO-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="-190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-24" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;4&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;caret-color: rgb(192, 192, 192); white-space-collapse: preserve; background-color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;Некачественные данные&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zyHtbYfiBEdQWDcqf0qO-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="-180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-25" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;4&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;caret-color: rgb(192, 192, 192); white-space-collapse: preserve; background-color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;Обесценивание данных&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-32" value="&lt;div style=&quot;text-align: start; background-color: rgb(43, 43, 43); color: rgb(169, 183, 198);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;div style=&quot;white-space: normal; background-color: rgb(43, 43, 43); color: rgb(169, 183, 198);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt; Внутрение потоки данных между IT-продуктами контролируются не системно&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="-140" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyHtbYfiBEdQWDcqf0qO-33" target="zyHtbYfiBEdQWDcqf0qO-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-33" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;4&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;caret-color: rgb(192, 192, 192); white-space-collapse: preserve; background-color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;ФИО, телефон, электронная почта&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zyHtbYfiBEdQWDcqf0qO-35" target="zyHtbYfiBEdQWDcqf0qO-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-35" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;4&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;caret-color: rgb(72, 72, 72); white-space-collapse: preserve; background-color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Утечка данных&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-37" value="&lt;div style=&quot;text-align: start; background-color: rgb(43, 43, 43); color: rgb(169, 183, 198);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;div style=&quot;white-space: normal; background-color: rgb(43, 43, 43); color: rgb(169, 183, 198);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;div style=&quot;white-space: normal; background-color: rgb(43, 43, 43); color: rgb(169, 183, 198);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Проблемы с API партнеров. Контракты Апи содержат персональные данные. Некоторые контракты позволяют&lt;br&gt;   внешним пользователям выполнять действия и получать данные, к которым у них не должно быть доступа.&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="700" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-38" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Оценка риска: значительный&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-40" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Оценка риска: значительный&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="-220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyHtbYfiBEdQWDcqf0qO-45" target="zyHtbYfiBEdQWDcqf0qO-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-45" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;4&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;caret-color: rgb(72, 72, 72); white-space-collapse: preserve; background-color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Информация о продажах, реквизиты карт&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyHtbYfiBEdQWDcqf0qO-46" target="zyHtbYfiBEdQWDcqf0qO-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-46" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;4&quot; face=&quot;YS Text, sans-serif&quot;&gt;&lt;span style=&quot;caret-color: rgb(72, 72, 72); white-space-collapse: preserve; background-color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Утечка данных&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyHtbYfiBEdQWDcqf0qO-47" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Оценка риска: незначительный&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
